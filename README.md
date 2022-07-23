@@ -1,2 +1,2 @@
 # Ayodeji-imanuel
-my personal github portfolio showing summary of my work and skills.
+https://hoshai.github.io/imanuel-Ayodeji/
